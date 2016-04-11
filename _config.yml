@@ -1,0 +1,28 @@
+name: makeawish
+favicon: null
+layout_spectrum: 0.4625884408596903
+typography_spectrum: 0.6754679156001657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6857666985597461
+  lightness: 0.4476145545486361
+  saturation: 0.4404430182185024
+  rhythmicContrast: 0.07040648232214153
+purpose: []
