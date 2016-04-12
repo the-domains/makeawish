@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: PIDE TU DESEO
-datePublished: '2016-04-12T18:07:37.897Z'
-dateModified: '2016-04-12T18:07:26.769Z'
-title: ''
+description: ''
+datePublished: '2016-04-12T18:08:15.356Z'
+dateModified: '2016-04-12T18:08:11.156Z'
+title: PIDE TU DESEO
 author: []
 authors: []
 publisher:
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-12-pide-tu-deseo.md
 published: true
-url: pide-tu-deseo/index.html
-_type: Article
+_type: Blurb
 
 ---
 PIDE TU DESEO
