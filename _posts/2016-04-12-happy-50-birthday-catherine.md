@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Happy song for Catherine in her 50th Birthday
-datePublished: '2016-04-12T18:57:10.306Z'
-dateModified: '2016-04-12T18:49:47.491Z'
+datePublished: '2016-04-12T18:57:44.563Z'
+dateModified: '2016-04-12T18:57:40.530Z'
 author:
   - avatar: {}
 related: []
@@ -38,7 +38,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: 'HAPPY 50 BIRTHDAY CATHERINE!!!'
+title: 50 CUMPLEAÑOS
 sourcePath: _posts/2016-04-12-happy-50-birthday-catherine.md
 published: true
 authors: []
