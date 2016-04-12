@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads."
+datePublished: '2016-04-12T19:05:47.977Z'
+dateModified: '2016-04-12T19:02:56.132Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://vimeo.com/158202911'
-title: Private Video on Vimeo
-datePublished: '2016-04-12T19:02:51.017Z'
-dateModified: '2016-04-12T18:59:24.931Z'
+title: Homenaje 50
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 sourcePath: _posts/2016-04-12-private-video-on-vimeo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+url: homenaje-50/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
