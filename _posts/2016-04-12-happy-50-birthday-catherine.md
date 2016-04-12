@@ -1,14 +1,16 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: Happy song for Catherine in her 50th Birthday
+datePublished: '2016-04-12T18:49:10.233Z'
+dateModified: '2016-04-12T18:48:16.138Z'
 author:
   - avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: Happy song for Catherine in her 50th Birthday
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/99937313'
     type: ios
@@ -36,15 +38,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/99937313'
 title: 'HAPPY 50 BIRTHDAY CATHERINE!!!'
-datePublished: '2016-04-12T18:47:43.490Z'
-dateModified: '2016-04-12T18:19:13.983Z'
 sourcePath: _posts/2016-04-12-happy-50-birthday-catherine.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: happy-50-birthday-catherine/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
