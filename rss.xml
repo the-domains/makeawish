@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[makeawish]]></title>
+        <description><![CDATA[makeawish]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 18:47:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HAPPY 50 BIRTHDAY CATHERINE!!!]]></title>
+            <description><![CDATA[<article><h1>HAPPY 50 BIRTHDAY CATHERINE!!!</h1><p>Happy song for Catherine in her 50th Birthday</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb1db58483379b2c620d7e5ec11e0e36b82740aa.jpg"></article>]]></description>
+            <link>https://vimeo.com/99937313</link>
+            <guid isPermaLink="false">e610f229-0518-4966-bcde-b094f547050b</guid>
+            <pubDate>Tue, 12 Apr 2016 18:47:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
